@@ -11,11 +11,13 @@ The objective of this project is to analyze the Titanic dataset using Python and
       Matplotlib → Basic visualizations
       Seaborn → Advanced statistical visualizations
       Dataset → Titanic Survival dataset (Kaggle)
+
 "Contents"
   -> titanic.csv → Dataset used for analysis (from Kaggle).
   -> Titanic_EDA.ipynb → Jupyter Notebook containing cleaning and EDA code.
   -> EDA_Visuals/ → Folder containing charts and plots generated during analysis.
     
+
 "Dashboard (Notebook) Insights"
   -> Overall Survival: Only around 38% of passengers survived, while 62% did not.
   -> Gender Effect: Women had a much higher survival rate compared to men.
