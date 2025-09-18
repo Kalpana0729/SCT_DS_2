@@ -14,7 +14,7 @@ The objective of this project is to analyze the Titanic dataset using Python and
 
 "Contents"
   -> titanic.csv → Dataset used for analysis (from Kaggle).
-  -> Titanic_EDA.ipynb → Jupyter Notebook containing cleaning and EDA code.
+  -> Titanic_EDA.py → Jupyter Notebook containing cleaning and EDA code.
   -> EDA_Visuals/ → Folder containing charts and plots generated during analysis.
     
 
